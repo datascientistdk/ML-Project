@@ -1,1 +1,2 @@
 C:\Users\dkpra\anaconda3
+C:\Users\dkpra\.conda\venv
